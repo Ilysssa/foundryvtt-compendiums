@@ -1,0 +1,104 @@
+{
+    "name": "AlexsDND",
+    "title": "Alex's Compendiums",
+    "description": "Comprehensive compendiums",
+    "author": "Ilyssa",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "compatibleCoreVersion":"0.7.9",
+    "packs": [
+        {
+            "name": "items",
+            "label": "Items",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "pcjournals",
+            "label": "Player Journals",
+            "path": "packs/pcjournals.db",
+            "entity": "JournalEntry",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "mechanics",
+            "label": "Game Mechanics",
+            "path": "packs/mechanics.db",
+            "entity": "JournalEntry",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "adventures",
+            "label": "Adventures",
+            "path": "packs/adventures.db",
+            "entity": "JournalEntry",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "npcfeat",
+            "label": "NPC Features",
+            "path": "packs/npcfeat.db",
+            "entity": "Item",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "pcs",
+            "label": "Player Characters",
+            "path": "packs/playercharacters.db",
+            "entity": "Actor",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "npcs",
+            "label": "NPCs",
+            "path": "packs/npcs.db",
+            "entity": "Actor",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "path": "packs/spells.db",
+            "entity": "Item",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "charfeat",
+            "label": "Character Features",
+            "path": "packs/charfeat.db",
+            "entity": "Item",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "macros",
+            "label": "Macros",
+            "path": "packs/macros.db",
+            "entity": "Macro",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "gmmacros",
+            "label": "GM Macros",
+            "path": "packs/gmmacros.db",
+            "entity": "Macro",
+            "module": "AlexsDND"
+        },
+        {
+            "name": "rtables",
+            "label": "Rollable Tables",
+            "path": "packs/rtables.db",
+            "entity": "RollTable",
+            "module": "AlexsDND"
+        }
+    ],
+    "url": "https://github.com/Ilysssa/foundryvtt-compendiums/AlexsDND",
+    "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/AlexsDND/main/module.json"
+}
