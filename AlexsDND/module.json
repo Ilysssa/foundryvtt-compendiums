@@ -100,5 +100,6 @@
         }
     ],
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/AlexsDND",
-    "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/AlexsDND/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsDND/module.json",
+    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/0.0.1/AlexsDND.zip"
 }

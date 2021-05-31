@@ -100,5 +100,6 @@
         }
     ],
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/AlexsExpanse",
-    "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/AlexsExpanse/main/module.json"
+    "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsExpanse/module.json",
+    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/0.0.1/AlexsExpanse.zip"
 }
