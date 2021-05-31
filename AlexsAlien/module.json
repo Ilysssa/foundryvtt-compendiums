@@ -99,7 +99,7 @@
             "module": "AlexsAlien"
         }
     ],
-    "url": "https://github.com/Ilysssa/foundryvtt-compendiums/AlexsAlien",
+    "url": "https://github.com/Ilysssa/foundryvtt-compendiums/tree/main/AlexsAlien",
     "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsAlien/module.json",
     "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/0.0.1/AlexsAlien.zip"
 }
