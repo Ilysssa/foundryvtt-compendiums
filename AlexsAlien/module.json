@@ -3,9 +3,9 @@
     "title": "Alex's Compendiums",
     "description": "Comprehensive compendiums",
     "author": "Ilyssa",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion":"0.7.9",
+    "compatibleCoreVersion":"0.8.7",
     "packs": [
         {
             "name": "items",
@@ -36,9 +36,9 @@
             "module": "AlexsAlien"
         },
         {
-            "name": "adventures",
-            "label": "Adventures",
-            "path": "packs/adventures.db",
+            "name": "journal",
+            "label": "Journal & Handouts",
+            "path": "packs/journal.db",
             "entity": "JournalEntry",
             "module": "AlexsAlien"
         },
@@ -101,5 +101,5 @@
     ],
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/tree/main/AlexsAlien",
     "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsAlien/module.json",
-    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/0.0.1/AlexsAlien.zip"
+    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.1/AlexsAlien.zip"
 }
