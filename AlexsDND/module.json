@@ -36,13 +36,6 @@
             "module": "AlexsDND"
         },
         {
-            "name": "items",
-            "label": "Items",
-            "path": "packs/items.db",
-            "entity": "Item",
-            "module": "AlexsDND"
-        },
-        {
             "name": "secretitems",
             "label": "GM Items",
             "path": "packs/secretitems.db",
