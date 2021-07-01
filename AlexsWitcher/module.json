@@ -3,9 +3,9 @@
     "title": "Alex's Compendiums",
     "description": "Comprehensive compendiums",
     "author": "Ilyssa",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion":"0.8.7",
+    "compatibleCoreVersion":"0.8.8",
     "packs": [
         {
             "name": "items",
@@ -101,5 +101,4 @@
     ],
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/tree/main/AlexsWitcher",
     "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsWitcher/module.json",
-    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.1/AlexsWitcher.zip"
 }
