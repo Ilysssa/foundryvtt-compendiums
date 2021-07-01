@@ -10,91 +10,91 @@
         {
             "name": "items",
             "label": "Items",
-            "path": "packs/items.db",
+            "path": "./packs/items.db",
             "entity": "Item",
             "module": "AlexsWitcher"
         },
         {
             "name": "scenes",
             "label": "Scenes",
-            "path": "packs/scenes.db",
+            "path": "./packs/scenes.db",
             "entity": "Scene",
             "module": "AlexsWitcher"
         },
         {
             "name": "pcjournals",
             "label": "Player Journals",
-            "path": "packs/pcjournals.db",
+            "path": "./packs/pcjournals.db",
             "entity": "JournalEntry",
             "module": "AlexsWitcher"
         },
         {
             "name": "mechanics",
             "label": "Game Mechanics",
-            "path": "packs/mechanics.db",
+            "path": "./packs/mechanics.db",
             "entity": "JournalEntry",
             "module": "AlexsWitcher"
         },
         {
             "name": "journal",
             "label": "Journal & Handouts",
-            "path": "packs/journal.db",
+            "path": "./packs/journal.db",
             "entity": "JournalEntry",
             "module": "AlexsWitcher"
         },
         {
             "name": "npcfeat",
             "label": "NPC Features",
-            "path": "packs/npcfeat.db",
+            "path": "./packs/npcfeat.db",
             "entity": "Item",
             "module": "AlexsWitcher"
         },
         {
             "name": "pcs",
             "label": "Player Characters",
-            "path": "packs/playercharacters.db",
+            "path": "./packs/playercharacters.db",
             "entity": "Actor",
             "module": "AlexsWitcher"
         },
         {
             "name": "npcs",
             "label": "NPCs",
-            "path": "packs/npcs.db",
+            "path": "./packs/npcs.db",
             "entity": "Actor",
             "module": "AlexsWitcher"
         },
         {
             "name": "spells",
             "label": "Powers & Arcana",
-            "path": "packs/spells.db",
+            "path": "./packs/spells.db",
             "entity": "Item",
             "module": "AlexsWitcher"
         },
         {
             "name": "charfeat",
             "label": "Character Features",
-            "path": "packs/charfeat.db",
+            "path": "./packs/charfeat.db",
             "entity": "Item",
             "module": "AlexsWitcher"
         },
         {
             "name": "macros",
             "label": "Macros",
-            "path": "packs/macros.db",
+            "path": "./packs/macros.db",
             "entity": "Macro",
             "module": "AlexsWitcher"
         },
         {
             "name": "gmmacros",
             "label": "GM Macros",
-            "path": "packs/gmmacros.db",
+            "path": "./packs/gmmacros.db",
             "entity": "Macro",
             "module": "AlexsWitcher"
         },
         {
             "name": "rtables",
             "label": "Rollable Tables",
-            "path": "packs/rtables.db",
+            "path": "./packs/rtables.db",
             "entity": "RollTable",
             "module": "AlexsWitcher"
         }
