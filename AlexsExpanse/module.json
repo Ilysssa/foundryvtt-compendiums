@@ -3,14 +3,63 @@
     "title": "Alex's Compendiums",
     "description": "Comprehensive compendiums",
     "author": "Ilyssa",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion":"0.8.7",
+    "compatibleCoreVersion":"1.0.0",
     "packs": [
         {
-            "name": "items",
-            "label": "Items",
-            "path": "packs/items.db",
+            "name": "equipment",
+            "label": "Weapons & Armour",
+            "path": "packs/equipment.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "consumables",
+            "label": "Food & Consumables",
+            "path": "packs/consumables.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "magical",
+            "label": "Magical Items",
+            "path": "packs/magical.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "tools",
+            "label": "Tools & Gear",
+            "path": "packs/tools.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "secretitems",
+            "label": "GM Items",
+            "path": "packs/secretitems.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "path": "packs/spells.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "charfeat",
+            "label": "Character Features",
+            "path": "packs/charfeat.db",
+            "entity": "Item",
+            "module": "AlexsExpanse"
+        },
+        {
+            "name": "npcfeat",
+            "label": "NPC Features",
+            "path": "packs/npcfeat.db",
             "entity": "Item",
             "module": "AlexsExpanse"
         },
@@ -43,13 +92,6 @@
             "module": "AlexsExpanse"
         },
         {
-            "name": "npcfeat",
-            "label": "NPC Features",
-            "path": "packs/npcfeat.db",
-            "entity": "Item",
-            "module": "AlexsExpanse"
-        },
-        {
             "name": "pcs",
             "label": "Player Characters",
             "path": "packs/playercharacters.db",
@@ -61,20 +103,6 @@
             "label": "NPCs",
             "path": "packs/npcs.db",
             "entity": "Actor",
-            "module": "AlexsExpanse"
-        },
-        {
-            "name": "spells",
-            "label": "Powers & Arcana",
-            "path": "packs/spells.db",
-            "entity": "Item",
-            "module": "AlexsExpanse"
-        },
-        {
-            "name": "charfeat",
-            "label": "Character Features",
-            "path": "packs/charfeat.db",
-            "entity": "Item",
             "module": "AlexsExpanse"
         },
         {
@@ -98,8 +126,8 @@
             "entity": "RollTable",
             "module": "AlexsExpanse"
         }
-    ],
+    ], 
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/tree/main/AlexsExpanse",
     "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsExpanse/module.json",
-    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.1/AlexsExpanse.zip"
+    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.2/AlexsExpanse.zip"
 }

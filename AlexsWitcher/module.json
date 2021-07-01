@@ -3,14 +3,63 @@
     "title": "Alex's Compendiums",
     "description": "Comprehensive compendiums",
     "author": "Ilyssa",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minimumCoreVersion": "0.5.0",
-    "compatibleCoreVersion":"0.8.7",
+    "compatibleCoreVersion":"1.0.0",
     "packs": [
         {
-            "name": "items",
-            "label": "Items",
-            "path": "packs/items.db",
+            "name": "equipment",
+            "label": "Weapons & Armour",
+            "path": "packs/equipment.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "consumables",
+            "label": "Food & Consumables",
+            "path": "packs/consumables.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "magical",
+            "label": "Magical Items",
+            "path": "packs/magical.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "tools",
+            "label": "Tools & Gear",
+            "path": "packs/tools.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "secretitems",
+            "label": "GM Items",
+            "path": "packs/secretitems.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "path": "packs/spells.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "charfeat",
+            "label": "Character Features",
+            "path": "packs/charfeat.db",
+            "entity": "Item",
+            "module": "AlexsWitcher"
+        },
+        {
+            "name": "npcfeat",
+            "label": "NPC Features",
+            "path": "packs/npcfeat.db",
             "entity": "Item",
             "module": "AlexsWitcher"
         },
@@ -43,13 +92,6 @@
             "module": "AlexsWitcher"
         },
         {
-            "name": "npcfeat",
-            "label": "NPC Features",
-            "path": "packs/npcfeat.db",
-            "entity": "Item",
-            "module": "AlexsWitcher"
-        },
-        {
             "name": "pcs",
             "label": "Player Characters",
             "path": "packs/playercharacters.db",
@@ -61,20 +103,6 @@
             "label": "NPCs",
             "path": "packs/npcs.db",
             "entity": "Actor",
-            "module": "AlexsWitcher"
-        },
-        {
-            "name": "spells",
-            "label": "Powers & Arcana",
-            "path": "packs/spells.db",
-            "entity": "Item",
-            "module": "AlexsWitcher"
-        },
-        {
-            "name": "charfeat",
-            "label": "Character Features",
-            "path": "packs/charfeat.db",
-            "entity": "Item",
             "module": "AlexsWitcher"
         },
         {
@@ -98,8 +126,8 @@
             "entity": "RollTable",
             "module": "AlexsWitcher"
         }
-    ],
+    ], 
     "url": "https://github.com/Ilysssa/foundryvtt-compendiums/tree/main/AlexsWitcher",
     "manifest": "https://raw.githubusercontent.com/Ilysssa/foundryvtt-compendiums/main/AlexsWitcher/module.json",
-    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.1/AlexsWitcher.zip"
+    "download": "https://github.com/Ilysssa/foundryvtt-compendiums/releases/download/1.0.2/AlexsWitcher.zip"
 }
